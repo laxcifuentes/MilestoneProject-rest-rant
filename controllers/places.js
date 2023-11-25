@@ -1,5 +1,9 @@
 const router = require('express').Router()
 
+router.get('/new', (req, res) => {
+  res.render('places/new')
+})
+
 router.get('/', (req, res) => {
     let places = [{
         name: 'In-N-Out',
@@ -17,7 +21,5 @@ router.get('/', (req, res) => {
       
     res.render('places/index', {places})
 })
-
-
 
 module.exports = router
