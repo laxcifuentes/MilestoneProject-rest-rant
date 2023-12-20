@@ -7,7 +7,7 @@ function home () {
             <main>
                 <h1>REST-Rant</h1>
                 <div>
-                    <img src="/images/fettucine-alfredo.jpg" alt="Fettucine Alfredo Pasta On Brown Wooden Table" />
+                    <img src="/images/fettucine-alfredo/500x500.jpg" alt="Fettucine Alfredo Pasta On Brown Wooden Table" />
                     <div>
                         Photo by: <a href="https://unsplash.com/@enginakyurt">Engin Akyurt</a> on <a href="https://unsplash.com/photos/a-plate-of-food-on-a-wooden-table-Jrvcg9My0B4" >Unsplash</a>
                         
